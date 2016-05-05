@@ -1,7 +1,5 @@
-# hello-word
+**Hello everybody!**
 
-Hello everybody!
+I wish you the best for your life! :wink:
 
-I wish you the best for your life! ;)
-
-Have a great day and take care!
+Have a great day! Take care... :wave:
